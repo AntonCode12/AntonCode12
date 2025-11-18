@@ -3,7 +3,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=apple,astro,css,git,github,html,md,npm,obsidian,notion,swift,vercel,visualstudio,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,astro,css,git,github,html,md,npm,obsidian,notion,swift,vercel,visualstudio,&perline=10)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AntonCode12&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AntonCode12&theme=aura_dark&hide_border=false)<br/>
