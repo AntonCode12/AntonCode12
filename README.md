@@ -1,9 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on a portfolio<br>🌱 I’m currently learning JavaScript, Python and Swift<br>⚡ Fun fact: I can probably design better UI than code it<br><br>
+I am a learning Frontend and Mobile iOS Developer
+
+📚 I am currently learning Swift and JavaScript.
+🔨 I am currently working on a Notes App.
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,astro,swift,git,github,vercel,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,astro,swift,git&perline=10)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AntonCode12&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AntonCode12&theme=aura_dark&hide_border=false)<br/>
