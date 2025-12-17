@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a learning Frontend and Mobile iOS Developer
 
-📚 I am currently learning Swift and JavaScript.
+📚 I am currently learning Swift and JavaScript. <br>
 🔨 I am currently working on a Notes App.
 
 
