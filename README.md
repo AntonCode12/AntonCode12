@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a learning Frontend and Mobile iOS Developer
+I am a learning web developer. 
 
 📚 I am currently learning JavaScript. <br>
 🔨 I am currently working on ..nothing.
