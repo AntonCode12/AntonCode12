@@ -8,4 +8,4 @@ I am a learning web developer.
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,astro,swift,git&perline=10)](https://skillicons.dev)
 
-+ https://github-stats-extended.vercel.app/api?username=antoncode12&theme=radical
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=antoncode12)](https://github.com/stats-organization/github-stats-extended)
