@@ -1,8 +1,8 @@
 # 💫 About Me:
 I am a learning web developer. 
 
-📚 I am currently learning JavaScript. <br>
-🔨 I am currently working on ..nothing.
+📚 I am currently learning Nextjs, Python and TypeScript. <br>
+🔨 I am currently working on a mobility tracker for Neu-Ulm and Ulm. <br>
 
 
 # 💻 Tech Stack:
